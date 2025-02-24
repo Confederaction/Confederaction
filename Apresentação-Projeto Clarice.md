@@ -6,7 +6,7 @@ Data: 24/02/2025
 
 Olá, eu sou Marcelo Rodrigo Alexandre, o pioneiro na integração e gerenciamento de múltiplos modelos de inteligência artificial.
 Eu criei o Projeto Clarice do zero, uma IA que redefine o que a tecnologia pode fazer e coloca a inteligência artificial num patamar jamais visto.
-No coração disso tudo está o MTMI, um método inovador que desenvolvi, capaz de reduzir o tempo de treinamento de modelos em até 50%, mantendo ou até melhorando a performance — testado, comprovado e devidamente documentado desde 24/02/2025. Tenho provas datadas que mostram que fui o primeiro a trazer essa abordagem ao mundo.
+No coração disso tudo está o MTMI, um método inovador que desenvolvi, capaz de reduzir o tempo de treinamento de modelos em até 50%, mantendo ou até melhorando a performance — testado, comprovado e devidamente documentado. Tenho provas datadas que mostram que fui o primeiro a trazer essa abordagem ao mundo.
 
 Diferente de tudo que veio antes, como o Switch Transformer de 2021, que se limitava a coordenar experts pra linguagem, eu fui além.
 O Clarice é uma plataforma integrada que resolve problemas reais da atualidade com arquiteturas únicas de conexão entre modelos, bancos de dados e interfaces. 
