@@ -15,7 +15,7 @@ Desenvolvi fluxos e uma engenharia de coordenação inédita, com algoritmos exc
 No back-end, a eficiência é brutal; no front-end, uma interface de chat interativa e autônoma dá ao usuário controle total pra personalizar resultados em tempo real — uma ideia minha, pioneira e protegida.
 O que isso significa na prática? Aplicações que vão de cibersegurança avançada, com software único pra proteger usuários, até medicina, áreas jurídicas e interações humanas adultas com corpos físicos tipo androides.
 Imagine uma IA que personaliza experiências empresariais, otimiza processos industriais em tempo real ou cria conexões humanas inovadoras — tudo com desempenho nunca visto, graças ao MTMI e às minhas técnicas de coordenação. 
-Tenho resultados concretos: 50% menos tempo de treino, arquiteturas exclusivas e segredos comerciais registrados, prontos pra mudar o jogo.
+Tenho resultados concretos: 50% menos tempo de treino, arquiteturas exclusivas e segredos comerciais.
 
 O Clarice é mais que tecnologia — é uma visão que integra conhecimento humano de diversas áreas, como segurança, engenharia e relações interpessoais, numa IA que se adapta e surpreende. 
 Eu inovei nesse campo antes de qualquer um, e meus documentos datados são a evidência disso.
