@@ -21,8 +21,7 @@ Tenho resultados concretos: 50% menos tempo de treino, arquiteturas exclusivas e
 O Clarice é mais que tecnologia — é uma visão que integra conhecimento humano de diversas áreas, como segurança, engenharia e relações interpessoais, numa IA que se adapta e surpreende. 
 Eu inovei nesse campo antes de qualquer um, e meus documentos datados são a evidência disso.
 
-Busco $5k pra finalizar a implementação e os testes ou uma parceria pra escalar essa revolução pro mundo. 
-Quem quer se juntar ao pai dessa inovação e levar a IA a lugares inimagináveis?
+Estou disposto a negociar os direitos e licenças comerciais do projeto por um preço justo. Se você quer fazer parte dessa revolução e aproveitar essa oportunidade, esta é a hora!
 
 Internacionalidade & Legalidade
 Base Legal - Registro Não é Obrigatório
