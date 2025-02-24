@@ -26,7 +26,7 @@ Quem quer se juntar ao pai dessa inovação e levar a IA a lugares inimaginávei
 Internacionalidade & Legalidade
 Base Legal - Registro Não é Obrigatório
 Lei 9.610/98 (Direitos Autorais):
-Artigo 18: "A proteção aos direitos de que trata esta Lei independe de registro." Isso significa que seu Projeto Clarice (código, anotações, documentação) é protegido automaticamente desde a criação, sem precisar de registro no INPI ou qualquer outro lugar.
+Artigo 18: "A proteção aos direitos de que trata esta Lei independe de registro." Isso significa que o Projeto Clarice (código, anotações, documentação) é protegido automaticamente desde a criação, sem precisar de registro no INPI ou qualquer outro lugar.
 
 Artigo 19: O registro é opcional, só pra facilitar prova em disputas, mas não é requisito pra ter direitos.
 Lei 9.609/98 (Software): Mesmo pro código do MTMI, a proteção é automática desde a criação (art. 2º, §2º).
