@@ -48,6 +48,6 @@ Convenção de Paris (1883):
 Artigo 10bis: Protege contra concorrência desleal (ex.: uso indevido do seu trabalho no exterior).
 
 Prova de Autoria é Suficiente
-Resposta: "Tenho provas datadas no GitHub aceitas judicialmente. O registro é opcional, como diz o art. 19 da Lei 9.610."
+Tenho provas datadas no GitHub aceitas judicialmente. O registro é opcional, como diz o art. 19 da Lei 9.610.
 
 Projeto Clarice is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
