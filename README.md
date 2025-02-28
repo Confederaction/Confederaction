@@ -47,4 +47,4 @@ Artigo 10bis: Protege contra concorrência desleal (ex.: uso indevido do seu tra
 Prova de Autoria é Suficiente
 Tenho provas datadas no GitHub aceitas judicialmente. O registro é opcional, como diz o art. 19 da Lei 9.610.
 
-Projeto Clarice is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+Projeto Clarice is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit This work is licensed under CC BY-NC-ND 4.0 
